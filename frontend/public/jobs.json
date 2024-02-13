@@ -1,0 +1,152 @@
+[
+    {
+        "id": "1",
+        "title": "Frontend Developer",
+        "type": "Remote",
+        "recruiterEmail": "company@recruiter.com",
+        "recruiterName": "Md Rubel Ahmed Rana",
+        "officialEmail": "company@office.com",
+        "location": "Sylhet, Bangladesh",
+        "website": "https://mdrubelahmedrana.web.app",
+        "salary": "20,000",
+        "workDay": "5 days",
+        "workTime": "10AM to 7PM",
+        "requiredTechs": [{"tech": "React"}, {"tech": "Typescript"}, {"tech": "Redux"}],
+        "goodToHave": [{"tech": "Nextjs"}, {"tech": "Expressjs"}, {"tech": "MongoDB"}],
+        "responsibilities": [
+            {"res" : "create userinterface"},
+            {"res" : "Make sure UX and good functionality"},
+            {"res" : "Manage state with talent"},
+            {"res" : "Continiuos implement new features"},
+            {"res" : "Follow the best practice"}
+        ],
+        "requirements": [
+            {"req" : "Must experience with HTML5 and CSS3"},
+            {"req" : "Experinced with Reactjs lifecycle and context api"},
+            {"req" : "Exprerienced with React statemanagement library like Redux or others."},
+            {"req" : "Understand the shipping policy."},
+            {"req" : "Must have a mindset for manage any problem if happended"}
+        ],
+        "about": "About our company sadgjalsgjqw0eprtfrgijerlgsehtguoergbmsdfjhgiuersghksdjfgbsdifugbksdjfghisdfghsdifhgisdughsduiofhgsdfgiusdfhgoisdjfojsdfogiye98rtherotuer0ijgosfhgsodifghosdf"
+    },
+    {
+        "id": "1",
+        "title": "Web Developer",
+        "type": "Remote",
+        "recruiterEmail": "company@recruiter.com",
+        "recruiterName": "Md Rubel Ahmed Rana",
+        "officialEmail": "company@office.com",
+        "location": "Sylhet, Bangladesh",
+        "website": "https://mdrubelahmedrana.web.app",
+        "salary": "20,000",
+        "workDay": "5 days",
+        "workTime": "10AM to 7PM",
+        "requiredTechs": [{"tech": "React"}, {"tech": "Typescript"}, {"tech": "Redux"}],
+        "goodToHave": [{"tech": "Nextjs"}, {"tech": "Expressjs"}, {"tech": "MongoDB"}],
+        "responsibilities": [
+            {"res" : "create userinterface"},
+            {"res" : "Make sure UX and good functionality"},
+            {"res" : "Manage state with talent"},
+            {"res" : "Continiuos implement new features"},
+            {"res" : "Follow the best practice"}
+        ],
+        "requirements": [
+            {"req" : "Must experience with HTML5 and CSS3"},
+            {"req" : "Experinced with Reactjs lifecycle and context api"},
+            {"req" : "Exprerienced with React statemanagement library like Redux or others."},
+            {"req" : "Understand the shipping policy."},
+            {"req" : "Must have a mindset for manage any problem if happended"}
+        ],
+        "about": "About our company sadgjalsgjqw0eprtfrgijerlgsehtguoergbmsdfjhgiuersghksdjfgbsdifugbksdjfghisdfghsdifhgisdughsduiofhgsdfgiusdfhgoisdjfojsdfogiye98rtherotuer0ijgosfhgsodifghosdf"
+    },
+    {
+        "id": "1",
+        "title": "JavaScript Developer",
+        "type": "Remote",
+        "recruiterEmail": "company@recruiter.com",
+        "recruiterName": "Md Rubel Ahmed Rana",
+        "officialEmail": "company@office.com",
+        "location": "Sylhet, Bangladesh",
+        "website": "https://mdrubelahmedrana.web.app",
+        "salary": "20,000",
+        "workDay": "5 days",
+        "workTime": "10AM to 7PM",
+        "requiredTechs": [{"tech": "React"}, {"tech": "Typescript"}, {"tech": "Redux"}],
+        "goodToHave": [{"tech": "Nextjs"}, {"tech": "Expressjs"}, {"tech": "MongoDB"}],
+        "responsibilities": [
+            {"res" : "create userinterface"},
+            {"res" : "Make sure UX and good functionality"},
+            {"res" : "Manage state with talent"},
+            {"res" : "Continiuos implement new features"},
+            {"res" : "Follow the best practice"}
+        ],
+        "requirements": [
+            {"req" : "Must experience with HTML5 and CSS3"},
+            {"req" : "Experinced with Reactjs lifecycle and context api"},
+            {"req" : "Exprerienced with React statemanagement library like Redux or others."},
+            {"req" : "Understand the shipping policy."},
+            {"req" : "Must have a mindset for manage any problem if happended"}
+        ],
+        "about": "About our company sadgjalsgjqw0eprtfrgijerlgsehtguoergbmsdfjhgiuersghksdjfgbsdifugbksdjfghisdfghsdifhgisdughsduiofhgsdfgiusdfhgoisdjfojsdfogiye98rtherotuer0ijgosfhgsodifghosdf"
+    },
+    {
+        "id": "1",
+        "title": "Reactjs Developer",
+        "type": "Remote",
+        "recruiterEmail": "company@recruiter.com",
+        "recruiterName": "Md Rubel Ahmed Rana",
+        "officialEmail": "company@office.com",
+        "location": "Sylhet, Bangladesh",
+        "website": "https://mdrubelahmedrana.web.app",
+        "salary": "20,000",
+        "workDay": "5 days",
+        "workTime": "10AM to 7PM",
+        "requiredTechs": [{"tech": "React"}, {"tech": "Typescript"}, {"tech": "Redux"}],
+        "goodToHave": [{"tech": "Nextjs"}, {"tech": "Expressjs"}, {"tech": "MongoDB"}],
+        "responsibilities": [
+            {"res" : "create userinterface"},
+            {"res" : "Make sure UX and good functionality"},
+            {"res" : "Manage state with talent"},
+            {"res" : "Continiuos implement new features"},
+            {"res" : "Follow the best practice"}
+        ],
+        "requirements": [
+            {"req" : "Must experience with HTML5 and CSS3"},
+            {"req" : "Experinced with Reactjs lifecycle and context api"},
+            {"req" : "Exprerienced with React statemanagement library like Redux or others."},
+            {"req" : "Understand the shipping policy."},
+            {"req" : "Must have a mindset for manage any problem if happended"}
+        ],
+        "about": "About our company sadgjalsgjqw0eprtfrgijerlgsehtguoergbmsdfjhgiuersghksdjfgbsdifugbksdjfghisdfghsdifhgisdughsduiofhgsdfgiusdfhgoisdjfojsdfogiye98rtherotuer0ijgosfhgsodifghosdf"
+    },
+    {
+        "id": "1",
+        "title": "Front End Engineer",
+        "type": "Remote",
+        "recruiterEmail": "company@recruiter.com",
+        "recruiterName": "Md Rubel Ahmed Rana",
+        "officialEmail": "company@office.com",
+        "location": "Sylhet, Bangladesh",
+        "website": "https://mdrubelahmedrana.web.app",
+        "salary": "20,000",
+        "workDay": "5 days",
+        "workTime": "10AM to 7PM",
+        "requiredTechs": [{"tech": "React"}, {"tech": "Typescript"}, {"tech": "Redux"}],
+        "goodToHave": [{"tech": "Nextjs"}, {"tech": "Expressjs"}, {"tech": "MongoDB"}],
+        "responsibilities": [
+            {"res" : "create userinterface"},
+            {"res" : "Make sure UX and good functionality"},
+            {"res" : "Manage state with talent"},
+            {"res" : "Continiuos implement new features"},
+            {"res" : "Follow the best practice"}
+        ],
+        "requirements": [
+            {"req" : "Must experience with HTML5 and CSS3"},
+            {"req" : "Experinced with Reactjs lifecycle and context api"},
+            {"req" : "Exprerienced with React statemanagement library like Redux or others."},
+            {"req" : "Understand the shipping policy."},
+            {"req" : "Must have a mindset for manage any problem if happended"}
+        ],
+        "about": "About our company sadgjalsgjqw0eprtfrgijerlgsehtguoergbmsdfjhgiuersghksdjfgbsdifugbksdjfghisdfghsdifhgisdughsduiofhgsdfgiusdfhgoisdjfojsdfogiye98rtherotuer0ijgosfhgsodifghosdf"
+    }
+]
